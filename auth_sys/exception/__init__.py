@@ -38,7 +38,7 @@ class FaceAppException(Exception):
 
     def __repr__(self):
         """
-        Formating object of AppException
+        Formating object of FaceAppException
         """
         return FaceAppException.__name__.__str__()
 
